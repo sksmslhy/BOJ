@@ -1,4 +1,4 @@
 ### README.md
 
-- Today I Learned.
-- Toward CS conquest.
+**BaekJoon Online Judge Solution** 
+- Today I Solved 
