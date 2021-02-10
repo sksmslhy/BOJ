@@ -1,4 +1,5 @@
 ### README.md
 
-**BaekJoon Online Judge Solution** 
-- Today I Solved 
+#### **BaekJoon Online Judge Solution** 
+---
+Today I Solved 
